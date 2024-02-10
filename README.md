@@ -16,7 +16,9 @@ The Mean Reciprocal Rank (MRR) is used to evaluate the rank of of each predicted
  The model is composed of three main sections-the image encoder, text encoder, and a module for the projection of the embeddings. 
 
 
- 
+
+ ![clip_corrected](https://github.com/PoojaPremnath2003/MediaEval_NewsImages/assets/88699435/597e4109-1a2c-4bc0-a6a1-259cfaf51bad)
+
 
 
 
@@ -47,6 +49,7 @@ yields the following results:
 
 
 
+![sample_output](https://github.com/PoojaPremnath2003/MediaEval_NewsImages/assets/88699435/8385558d-c7e7-4110-8b6e-882368a26b9f)
 
 
 ## Authors
