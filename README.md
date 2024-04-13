@@ -7,6 +7,10 @@ This repository contains an implementation of the NewsImages task of MediaEval 2
 The Mean Reciprocal Rank (MRR) is used to evaluate the rank of of each predicted image against the ground truth.
 
 
+## Paper
+The paper describing the proposed method can be found here:
+
+[Optimizing Visual Pairings: A CLIP Framework for Precision News Image Rematching](https://ceur-ws.org/Vol-3658/paper20.pdf)
 
 ## Model
 
@@ -65,12 +69,27 @@ yields the following results:
 - [Y.V. Ojus](https://github.com/Ojus999)
 
 
+## Citation
+If you find our work useful in your research, please include the following citation:
+
+
+
+```
+@article{premnath2023optimizing,
+  title={Optimizing Visual Pairings: A CLIP Framework for Precision News Image Rematching},
+  author={Premnath, Pooja and Yenumulapalli, Venkatasai Ojus and Sivanaiah, Rajalakshmi and Suseelan, Angel Deborah},
+  year={2023}
+}
+
+```
+
 
 ## Acknowledgements
 
 
 1. A. Lommatzsch, B. Kille, Ö. Özgöbek, M. Elahi, D.-T. Dang-Nguyen, News images in mediaeval 2023, in: Proceedings of the MediaEval Benchmarking Initiative 2023, CEU Workshop Proceedings,2024
 2. M. M. Shariatnia, Simple CLIP, 2021. doi:10.5281/zenodo.6845731.
+
 
 
 
