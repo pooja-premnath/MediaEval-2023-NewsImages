@@ -75,12 +75,12 @@ If you find our work useful in your research, please include the following citat
 
 
 ```
-@article{premnath2023optimizing,
-  title={Optimizing Visual Pairings: A CLIP Framework for Precision News Image Rematching},
+@inproceedings{premnath2023optimizing,
+  title={Optimizing Visual Pairings: A CLIP Framework for Precision News Image Rematching.},
   author={Premnath, Pooja and Yenumulapalli, Venkatasai Ojus and Sivanaiah, Rajalakshmi and Suseelan, Angel Deborah},
+  booktitle={MediaEval},
   year={2023}
 }
-
 ```
 
 
